@@ -1,0 +1,1 @@
+python take_shot.py
